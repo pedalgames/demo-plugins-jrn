@@ -1,0 +1,20 @@
+{
+	"id": "jrn/plugin1",
+	"author": "Jesper Nielsen",
+	"version": "0.1",
+	"description": "A plugin for development",
+	"name": "Plugin jrn/plugin1",
+	"template": "block",
+	"fields": [
+		{
+			"id": "field2",
+			"label": "Field 2",
+			// "sublabel": "Sublabel 2",
+			"unit": "unit 2",
+			"type": "number",
+			"value": "qwerty/aa",
+			"description": "Description 2",
+			"color": "blue",
+		}
+	]
+}

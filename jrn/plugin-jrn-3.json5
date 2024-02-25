@@ -1,0 +1,20 @@
+{
+	"id": "jrn/plugin3",
+	"author": "Jesper Nielsen",
+	"version": "0.1",
+	"description": "Output a text string (time)",
+	"name": "Plugin jrn/plugin3",
+	"template": "default",
+	"fields": [
+		{
+			"id": "field2",
+			// "label": "Field 2",
+			"sublabel": "Time",
+			//"unit": "unit 2",
+			"type": "text",
+			"value": "texts/time",
+			"description": "Time",
+			"color": "blue",
+		}
+	]
+}
